@@ -1,0 +1,78 @@
+.post {
+  border: 2px solid;
+  height: 600px;
+  width: 500px;
+  margin: auto;
+  margin-top: 10%;
+  background-color: white;
+}
+
+img {
+  width: 100%;
+}
+
+#posthead {
+  display: flex;
+}
+
+body {
+  background-color: gray;
+}
+
+h3 {
+  margin-left: 10px;
+  margin-right: 350px;
+  margin-bottom:0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.prompt {
+  margin-right: 375px;
+  margin-bottom: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#ellipsis {
+  margin-top: 30px;
+}
+
+.name {
+  margin-left: 10px;
+  margin-top:0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.space {
+  margin-left: 20px;
+}
+
+#symbols {
+  margin-top: 15px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.plane {
+  margin-left: 20px;
+  margin-right: 225px;
+}
+
+#symbols p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#comments {
+  margin-top: 30px;
+  px;
+  margin-left: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#icon {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+#symbols :nth-child(4) {
+  margin-left:68%;
+}
